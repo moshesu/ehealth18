@@ -2,7 +2,7 @@
 ## TAU Workshop
 ### Workshop Staff:
 Dr. Nir Levy  
-[Moshe Sulamy]{https://www.cs.tau.ac.il/~moshesulamy/}
+[Moshe Sulamy](https://www.cs.tau.ac.il/~moshesulamy/)
 
 ### Homepage:
 https://www.cs.tau.ac.il/~moshesulamy/microsoft17.htm
