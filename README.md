@@ -1,4 +1,4 @@
-# E-Health Programming Using E-Bands and Cloud Technologies
+# E-Health Programming w/ E-Bands and Cloud Technologies
 ## TAU Workshop, 2017-2018
 ### Workshop Staff:
 Dr. Nir Levy  
