@@ -1,5 +1,5 @@
-# E-Health Programming Using E-Bands and Cloud Technologies 2017-2018
-## TAU Workshop
+# E-Health Programming Using E-Bands and Cloud Technologies
+## TAU Workshop, 2017-2018
 ### Workshop Staff:
 Dr. Nir Levy  
 [Moshe Sulamy](https://www.cs.tau.ac.il/~moshesulamy/)
