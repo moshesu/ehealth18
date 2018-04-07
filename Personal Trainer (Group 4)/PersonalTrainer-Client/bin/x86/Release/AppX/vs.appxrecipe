@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAL</Machine>
+    <WindowsUser>lenovo</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec189c91-15f6-41d2-b08f-5740eff6a728</PackageIdentityName>
+    <PackageIdentityPublisher>CN=t-tarosl</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>2473594A85BEBB8663C55CA61F4AD0E5EB2D833EBF18D5EB9E9766201CAC45CA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ec189c91-15f6-41d2-b08f-5740eff6a728_1.0.0.0_x86__7cafsybfahn10</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ec189c91-15f6-41d2-b08f-5740eff6a728_7cafsybfahn10!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ec189c91-15f6-41d2-b08f-5740eff6a728</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=t-tarosl</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:57:02.230</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2016-06-13T17:51:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\bronze.png">
+      <PackagePath>Images\bronze.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\calories.png">
+      <PackagePath>Images\calories.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\details.png">
+      <PackagePath>Images\details.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\gold.png">
+      <PackagePath>Images\gold.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\heart_rate.png">
+      <PackagePath>Images\heart_rate.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\inside_fat.jpg">
+      <PackagePath>Images\inside_fat.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\inside_fitness.jpg">
+      <PackagePath>Images\inside_fitness.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\inside_flex.jpg">
+      <PackagePath>Images\inside_flex.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\inside_run.jpeg">
+      <PackagePath>Images\inside_run.jpeg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\inside_strength.jpg">
+      <PackagePath>Images\inside_strength.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\login.jpg">
+      <PackagePath>Images\login.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Logo.png">
+      <PackagePath>Images\Logo.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\outside_run.jpg">
+      <PackagePath>Images\outside_run.jpg</PackagePath>
+      <Modified>2018-04-01T22:06:37.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\repetition.png">
+      <PackagePath>Images\repetition.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square310x310Logo.scale-100.png">
+      <PackagePath>Images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square310x310Logo.scale-125.png">
+      <PackagePath>Images\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square310x310Logo.scale-150.png">
+      <PackagePath>Images\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square310x310Logo.scale-200.png">
+      <PackagePath>Images\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square310x310Logo.scale-400.png">
+      <PackagePath>Images\Square310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square71x71Logo.scale-100.png">
+      <PackagePath>Images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square71x71Logo.scale-125.png">
+      <PackagePath>Images\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square71x71Logo.scale-150.png">
+      <PackagePath>Images\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square71x71Logo.scale-200.png">
+      <PackagePath>Images\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Square71x71Logo.scale-400.png">
+      <PackagePath>Images\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\start.png">
+      <PackagePath>Images\start.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\start_workout.png">
+      <PackagePath>Images\start_workout.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\statistics.png">
+      <PackagePath>Images\statistics.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\timer.png">
+      <PackagePath>Images\timer.png</PackagePath>
+      <Modified>2018-04-01T22:06:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:19:29.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\winner.png">
+      <PackagePath>Images\winner.png</PackagePath>
+      <Modified>2018-04-01T22:06:38.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\Images\workout.png">
+      <PackagePath>Images\workout.png</PackagePath>
+      <Modified>2018-04-01T22:06:38.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\PersonalTrainer-Client.dll">
+      <PackagePath>PersonalTrainer-Client.dll</PackagePath>
+      <Modified>2018-04-07T14:57:00.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\PersonalTrainer-Client.exe">
+      <PackagePath>PersonalTrainer-Client.exe</PackagePath>
+      <Modified>2018-04-07T14:57:02.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\PersonalTrainer-Client.pdb">
+      <PackagePath>PersonalTrainer-Client.pdb</PackagePath>
+      <Modified>2018-04-07T14:57:02.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-07T14:53:43.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+      <Modified>2018-04-07T14:55:11.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+      <Modified>2018-04-07T14:55:11.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\University\PersonalTrainer\Personal-Trainer_Runtime\PersonalTrainer-Client\bin\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+      <Modified>2018-04-07T14:55:11.659</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\lenovo\.nuget\packages\microsoft.net.native.compiler\1.7.1\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

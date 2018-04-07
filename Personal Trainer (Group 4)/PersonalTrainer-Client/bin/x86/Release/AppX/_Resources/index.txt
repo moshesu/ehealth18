@@ -1,0 +1,4 @@
+Microsoft.Azure.Mobile.Client, Version=4.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.WindowsAzure.MobileServices.Resources.resources
+WinRTXamlToolkit.Controls.DataVisualization, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+  WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resources

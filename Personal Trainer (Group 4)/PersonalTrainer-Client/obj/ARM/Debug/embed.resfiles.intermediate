@@ -1,0 +1,17 @@
+App.xbf
+Flows\MainFlow\ChooseWorkout.xbf
+Flows\MainFlow\ChooseWorkoutForStatistics.xbf
+Flows\MainFlow\MainDashboard.xbf
+Flows\Registration\ChooseTrainingProgram.xbf
+Flows\Registration\UserDetailsPage.xbf
+Flows\TrainingProgramDetails\ExerciseDetails.xbf
+Flows\TrainingProgramDetails\TrainingProgramDetails.xbf
+Flows\TrainingProgramDetails\WorkoutDetails.xbf
+Flows\Workout\Exercise.xbf
+Flows\Workout\ExerciseGuide.xbf
+Flows\Workout\Set.xbf
+Flows\Workout\Stats\UserWorkoutStatisticsDisplay.xbf
+Flows\Workout\Stats\WorkoutStatistics.xaml\OtherUsersStatistics.xbf
+Flows\Workout\WorkoutDashboard.xbf
+Flows\Workout\WorkoutSummary.xbf
+Login.xbf

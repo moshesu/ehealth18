@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="PersonalTrainer_Client.Flows.Workout.ExerciseGuide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PersonalTrainer_Client.Flows.Workout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    NavigationCacheMode="Required">
+
+    <Grid>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*" />
+
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Images/background.jpg"/>
+        </Grid.Background>
+
+        <Image Name ="GuidImage" HorizontalAlignment="Center" Grid.Row="0" Stretch="Uniform"/>
+        <ScrollViewer Grid.Row="1" Margin="16">
+            <TextBlock Name="GuideText" TextWrapping="Wrap" AllowDrop="True" Width="Auto"  Text="13"/>
+        </ScrollViewer>
+
+    </Grid>
+</Page>

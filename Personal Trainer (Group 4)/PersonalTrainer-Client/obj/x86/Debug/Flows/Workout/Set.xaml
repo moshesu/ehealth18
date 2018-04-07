@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="PersonalTrainer_Client.Set"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PersonalTrainer_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    NavigationCacheMode="Required">
+
+    <Grid x:ConnectionId='1' x:Name="LayoutRoot">
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Images/background.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="0.5*"/>
+
+        </Grid.RowDefinitions>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="16" Grid.Row="0" Orientation="Vertical" Background="#44d3d3d3">
+
+            <Image Margin="16,16,16,0" Width="100" Height="100" Source="ms-appx:///Images/timer.png"/>
+
+            <TextBlock x:ConnectionId='7' HorizontalAlignment="Center" VerticalAlignment="Center" Name="time" Text="00:00" Padding="4" FontSize="20"/>
+
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="16" Grid.Row="1" Orientation="Vertical" Background="#44d3d3d3">
+
+            <Image Margin="16,16,16,0" Width="100" Height="100" Source="ms-appx:///Images/repetition.png"/>
+
+            <TextBlock x:ConnectionId='6' HorizontalAlignment="Center"  Name="reps" Text="0" Padding="4" FontSize="20"/>
+
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="16" Grid.Row="2" Orientation="Vertical" Background="#44d3d3d3">
+
+            <Image x:ConnectionId='4' Margin="16,16,16,0" Width="100" Height="100" Source="ms-appx:///Images/heart_rate.png" Name="heartRateImage"/>
+
+            <TextBlock x:ConnectionId='5' HorizontalAlignment="Center" Name="heartRate" Text="0" Padding="4" FontSize="20"/>
+
+        </StackPanel>
+
+        <Button x:ConnectionId='2' HorizontalAlignment="Stretch" VerticalAlignment="Center" Name="End" IsEnabled="False"  Margin="64,0,64,0" Padding="16" FontSize="20"  Grid.Row="4" Content="Finish"                BorderBrush="White" BorderThickness="2"/>
+
+        <MediaElement x:ConnectionId='3' x:Name="media" />
+    </Grid>
+    
+    
+</Page>
+

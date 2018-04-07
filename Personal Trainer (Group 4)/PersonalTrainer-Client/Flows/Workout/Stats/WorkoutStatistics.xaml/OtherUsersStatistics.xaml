@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="PersonalTrainer_Client.Flows.Workout.Stats.WorkoutStatistics.xaml.OtherUsersStatistics"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PersonalTrainer_Client.Flows.Workout.Stats.WorkoutStatistics.xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Name="Title" HorizontalAlignment="Center" Text="Other Users Workouts Statistics" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,40,0,0"/>
+
+        <TextBlock Name="Time" HorizontalAlignment="Left" Text="Average Overall Time: " TextWrapping="Wrap" VerticalAlignment="Center" Margin="20,40,90,60"/>
+        <TextBlock Name="NumOfEx" HorizontalAlignment="Left" Text="Average Number of exercises completed: : " TextWrapping="Wrap" VerticalAlignment="Center" Margin="20,40,50,0"/>
+        <TextBlock Name="heartRate" HorizontalAlignment="Left" Text="Average heart rate: " TextWrapping="Wrap" VerticalAlignment="Center" Margin="20,100,90,0"/>
+    </Grid>
+</Page>

@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="PersonalTrainer_Client.Flows.Registration.ChooseTrainingProgram"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PersonalTrainer_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    NavigationCacheMode="Required">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Images/background.jpg"/>
+        </Grid.Background>
+
+        <ScrollViewer>
+        <StackPanel>
+            <TextBlock Margin="0,16,0,16" HorizontalAlignment="Center" Text="Pick a program" Grid.Row="0" FontSize="40"  Foreground="Green"/>
+                <StackPanel Name="FirstStack" BorderBrush="Green" BorderThickness="4">
+                    <RadioButton Name="FirstOption" Margin="16,0,16,0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="RadioButton_Click" IsChecked="True"/>
+                    <Button Name="FirstButton" Click="Image_Click" Background="Transparent" Padding="0">
+                        <Image Name="FirstImage"/>
+                    </Button>
+                </StackPanel>
+                <StackPanel Name="SecondStack" BorderBrush="Green">
+                    <RadioButton Name="SecondOption" Margin="16,0,16,0"  HorizontalAlignment="Left" VerticalAlignment="Top" Click="RadioButton_Click" IsChecked="False"/>
+                    <Button Name="SecondButton" Click="Image_Click" Background="Transparent" Padding="0">
+                        <Image Name="SecondImage"/>
+                    </Button>
+                </StackPanel>
+                <StackPanel Name="ThirdStack" BorderBrush="Green">
+                    <RadioButton Name="ThirdOption" Margin="16,0,16,0"  HorizontalAlignment="Left" VerticalAlignment="Top" Click="RadioButton_Click" IsChecked="False"/>
+                    <Button Name="ThirdButton" Click="Image_Click" Background="Transparent" Padding="0">
+                        <Image Name="ThirdImage"/>
+                    </Button>
+                </StackPanel>
+            
+            
+            
+            <Button Name="Save" Background="Green" FontWeight="Bold" Foreground="White" FontSize="20" Content="Save and continue" HorizontalAlignment="Stretch" Margin="64,16,64,16" Padding="8" VerticalAlignment="Bottom" Click="Button_Click" BorderBrush="Green" IsEnabled="false"/>
+            </StackPanel>
+        </ScrollViewer>
+        
+        
+    
+    </Grid>
+</Page>

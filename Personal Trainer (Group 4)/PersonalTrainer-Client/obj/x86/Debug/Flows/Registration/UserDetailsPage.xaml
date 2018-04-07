@@ -1,0 +1,256 @@
+﻿<Page
+    x:Class="PersonalTrainer_Client.Flows.Registration.UserDeatailsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PersonalTrainer_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    NavigationCacheMode="Required">
+
+    
+    
+    <Grid x:ConnectionId='1' x:Name="LayoutRoot">
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto"/>
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="Auto"/>
+
+
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Images/background.jpg"/>
+        </Grid.Background>
+        
+        <!--Title-->
+
+        <TextBlock Margin="0,16,0,0" HorizontalAlignment="Center" Text="User Registration" Grid.Row="0" FontSize="40"  Foreground="Green"/>
+
+        <!--Form 1-->
+
+        <Grid x:ConnectionId='2' Margin="16,8,16,16" Grid.Row="1" Name="Form_1">
+
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <!--Form Title-->
+
+            <TextBlock Text="Personal information" Grid.Row="0" FontSize="30"  Foreground="Green"/>
+            
+            <!--UserName-->
+
+            <TextBlock Text="Name:" Grid.Row="1" Foreground="Green"   Margin="0,8,0,8"/>
+
+            <TextBox x:ConnectionId='24' Name="TxtUserName" BorderBrush="LightGray" Grid.Row="2" Margin="0,0,0,8" />
+
+            <!--Age-->
+
+            <TextBlock Text="Age:" Grid.Row="3" Foreground="Green"   Margin="0,0,0,8"/>
+
+            <TextBox x:ConnectionId='25' Name="TxtAge" BorderBrush="LightGray" Grid.Row="4" Margin="0,0,0,8"/>
+
+            <!--Gender-->
+
+            <TextBlock Text="Gender:" Grid.Row="5" Margin="0,0,0,8" Foreground="Green" />
+
+            <RadioButton x:ConnectionId='26' Name="GenMale"  Content="Male" Grid.Row="6" Margin="0,0,0,8" Foreground="White" IsChecked="True"/>
+
+            <RadioButton x:ConnectionId='27' Name="GenFemale"  Content="Female" Grid.Row="6" Margin="100,0,0,8" Foreground="White" />
+
+            <!--Height-->
+
+            <TextBlock Text="Height (in cm):" Grid.Row="7" Foreground="Green"   Margin="0,0,0,8"/>
+
+            <TextBox x:ConnectionId='28' Name="TxtHeight" BorderBrush="LightGray" Grid.Row="8" Margin="0,0,0,8" />
+
+            <!--Weight-->
+
+            <TextBlock Text="Weight (in kg):" Grid.Row="9" Foreground="Green"   Margin="0,0,0,8"/>
+
+            <TextBox x:ConnectionId='29' Name="TxtWeight" BorderBrush="LightGray" Grid.Row="10" Margin="0,0,0,8"/>
+
+        </Grid>
+
+        <!--Form 2-->
+
+        <Grid x:ConnectionId='3' Margin="16,8,16,16" Grid.Row="1" Name="Form_2" Visibility="Collapsed">
+
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <!--Form Title-->
+
+            <TextBlock Text="Goal" Grid.Row="0" FontSize="30"  Foreground="Green"/>
+
+            <!--Goal-->
+
+            <TextBlock Text="What is the main thing that you want to acheive?" Grid.Row="1" Margin="0,8,0,8" Foreground="Green" />
+
+            <RadioButton x:ConnectionId='18' Name="GoalStrength"  Content="Improving muscle strength" Grid.Row="2" Margin="0,0,0,0" Foreground="White" IsChecked="True" />
+
+            <RadioButton x:ConnectionId='19' Name="GoalSize"  Content="Increasing muscle size" Grid.Row="3" Margin="0,0,0,0" Foreground="White" />
+
+            <RadioButton x:ConnectionId='20' Name="GoalFitness"  Content="Fitness" Grid.Row="4" Margin="0,0,0,0" Foreground="White" />
+
+            <RadioButton x:ConnectionId='21' Name="GoalWeightLoss"  Content="Weight Loss" Grid.Row="5" Margin="0,0,0,0" Foreground="White" />
+
+            <RadioButton x:ConnectionId='22' Name="GoalSpeed"  Content="Improving running speed and length" Grid.Row="6" Margin="0,0,0,0" Foreground="White" />
+
+            <RadioButton x:ConnectionId='23' Name="GoalFlexibility"  Content="Improving muscle flexibility" Grid.Row="7" Margin="0,0,0,0" Foreground="White" />
+
+        </Grid>
+
+        <!--Form 3-->
+
+        <Grid x:ConnectionId='4' Margin="16,8,16,16" Grid.Row="1" Name="Form_3" Visibility="Collapsed">
+
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <!--Form Title-->
+
+            <TextBlock Text="Exercise information" Grid.Row="0" FontSize="30"  Foreground="Green"/>
+
+            <!--Gym access-->
+
+            <TextBlock Text="Do you have access to gym facilities?" Grid.Row="1" Margin="0,8,0,8" Foreground="Green" />
+
+            <RadioButton x:ConnectionId='15' Name="GymAccess"  Content="Yes" Grid.Row="2" Margin="0,0,0,8" Foreground="White" IsChecked="True" />
+
+            <RadioButton x:ConnectionId='16' Name="GymNoAccess" Content="No" Grid.Row="2" Margin="100,0,0,8" Foreground="White" />
+
+            <!--Difficulty-->
+
+            <TextBlock Text="In the past year, what is the average exercise hours you did per week?" Grid.Row="3" Foreground="Green"  Margin="0,0,0,8"/>
+
+            <TextBox x:ConnectionId='17' Name="TxtExerciseAverage" BorderBrush="LightGray" Grid.Row="4" Margin="0,0,0,8" />
+
+        </Grid>
+
+        <!--Form 4-->
+
+        <Grid x:ConnectionId='5' Margin="16,8,16,16" Grid.Row="1" Name="Form_4" Visibility="Collapsed">
+
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+                
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+                
+                <RowDefinition Height="Auto"/>
+
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <!--Form Title-->
+
+            <TextBlock Text="Workout days" Grid.Row="0" FontSize="30"  Foreground="Green"/>
+
+            <!--Days-->
+
+            <TextBlock Text="On which days do you prefer to exercise?" Grid.Row="1" Margin="0,8,0,8" Foreground="Green" />
+
+            <CheckBox x:ConnectionId='8' Name="DaySunday"  Content="Sunday" Grid.Row="2" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='9' Name="DayMonday"  Content="Monday" Grid.Row="3" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='10' Name="DayTuesday"  Content="Tuesday" Grid.Row="4" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='11' Name="DayWednesday"  Content="Wednesday" Grid.Row="5" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='12' Name="DayThursday"  Content="Thursday" Grid.Row="6" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='13' Name="DayFriday"  Content="Friday" Grid.Row="7" Margin="0,0,0,0" Foreground="Green"                                          />
+
+            <CheckBox x:ConnectionId='14' Name="DaySaturday"  Content="Saturday" Grid.Row="8" Margin="0,0,0,0" Foreground="Green"                                          />
+
+
+        </Grid>
+
+
+        <Grid Grid.Row="2" VerticalAlignment="Bottom">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <!--Previous Button-->
+
+            <Button x:ConnectionId='6' BorderBrush="Green" HorizontalAlignment="Stretch" Margin="16,0,8,16" Grid.Row="0" Grid.Column="0" Background="Green" FontWeight="Bold" Content="Previous"  Name="BtnPrevious"                         IsEnabled="False"/>
+
+            <!--Next Button-->
+
+            <Button x:ConnectionId='7' BorderBrush="Green" HorizontalAlignment="Stretch" Margin="8,0,16,16" Grid.Row="0" Grid.Column="1" Background="Green" FontWeight="Bold" Content="Next"  Name="BtnNext"                    />
+            
+        </Grid>
+
+    </Grid>
+</Page>
+
