@@ -2,7 +2,7 @@
 ## TAU Workshop, 2017-2018
 ## Personal Trainer App - Tal Rosler & Liron Moshkovich
 
--) 'Personal_TrainerService' is our backend - a mobile app cloud service deployes to azure.
+-) 'Personal_TrainerService' is our backend - a mobile app cloud service deployed to azure.
 
 -) 'Personal_Trainer-Client' is our client - a universal windows platform application.
 
