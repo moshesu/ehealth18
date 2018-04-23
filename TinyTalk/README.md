@@ -12,4 +12,4 @@ https://noypitt.wixsite.com/tinytalk
 
 * **Noy Pitterman**
 * **Nofar Elarat**
-* **Sharon Shaharabani**
+* **Sharon Shaharabany**
