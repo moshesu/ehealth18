@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": ""
+  },
+  "ConnectionStrings": {
+    "sqldb_connection": "Server=tcp:boostappserver.database.windows.net,1433;Initial Catalog=boostSqlDb;Persist Security Info=False;User ID=boost;Password=Group5tau;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}

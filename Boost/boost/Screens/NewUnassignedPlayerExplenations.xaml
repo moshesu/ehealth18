@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="boost.NewUnassignedPlayerExplenations"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ScrollViewer HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" >
+
+        <Grid Background="{x:Bind BackgroundColorBrush}">
+            <Grid.Resources>
+                <Style x:Key="GridRowDefaultStyle" TargetType="RowDefinition">
+                    <Setter Property="Height" Value="1*"/>
+                </Style>
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*"/>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition Height="0.1*"/>
+            </Grid.RowDefinitions>
+            <Image Source="boost.png" VerticalAlignment="Top" Height="100" Grid.Row="0"/>
+            <TextBlock x:Name="welcome" TextWrapping="WrapWholeWords" HorizontalAlignment="Center"  VerticalAlignment="Top" FontSize="30"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="1" Grid.RowSpan="2" />
+            <Button x:Name="button" Content="Let's Go!" HorizontalAlignment="Center" VerticalAlignment="bottom" FontSize="50" Foreground="{x:Bind ButtonTextColorBrush}" Background="{x:Bind ButtonColorBrush}"   Grid.Row="3" Click="button_Click"/>
+        </Grid>
+    </ScrollViewer>
+</Page>

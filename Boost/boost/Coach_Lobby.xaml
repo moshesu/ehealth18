@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="boost.Coach_Lobby"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <ScrollViewer HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" >
+
+        <Grid Background="Blue">
+            <Grid.Resources>
+                <Style x:Key="GridRowDefaultStyle" TargetType="RowDefinition">
+                    <Setter Property="Height" Value="1*"/>
+                </Style>
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*"/>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition Height="0.1*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="textBlock"   TextWrapping="Wrap" Text="boost" VerticalAlignment="Top" FontSize="72" TextAlignment="Center" Foreground="White"    Grid.Row="0"  />
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Button x:Name="button_players" Content="View players" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontSize="25" Foreground="White" Background="Lime"   Grid.Row="1" Click="button_players_Click"  />
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+
+                <Button x:Name="button_update_payment_method"  Content="update payment method"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FontSize="25" Foreground="White" Background="Lime"   Grid.Row="1" Click="button_update_payment_method_Click"  />
+
+            </Grid>
+
+            <Button x:Name="button"                         Content="Accept" HorizontalAlignment="Center" VerticalAlignment="bottom" FontSize="50" Foreground="White" Background="Lime"   Grid.Row="3" />
+
+        </Grid>
+    </ScrollViewer>
+</Page>

@@ -1,0 +1,97 @@
+﻿<Page
+    x:Class="boost.Game_Hub"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <ScrollViewer HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" >
+
+        <Grid Name="outer" Background="{x:Bind BackgroundColorBrush}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="8*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Image Source="boost.png" VerticalAlignment="Top" Height="100" Grid.Row="0"/>
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="1" Grid.RowSpan="3"  Grid.ColumnSpan="3" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Name="welcome" VerticalAlignment="Top" FontSize="20" TextAlignment="Center" Foreground="{x:Bind TextOnBackgroundColorBrush}" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="1">
+                Hey Ofri! Welcome to the GameHub <LineBreak/>
+                </TextBlock>
+                <TextBlock Name="crystals" VerticalAlignment="Top" FontSize="20" TextAlignment="Center" Foreground="{x:Bind TextOnBackgroundColorBrush}" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="2">
+                You have 177 Crystals! 
+                    </TextBlock>
+                    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="3"   Grid.ColumnSpan="3" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                        <Button Name="Daily"        Content="View daily progress"       HorizontalAlignment="Center"  Grid.Row="0" VerticalAlignment="Top" Background="{x:Bind ButtonColorBrush}" Click="View_Daily_Click"/>
+                        <Button Name="Weekly"       Content="View weekly progress"      HorizontalAlignment="Center"  Grid.Row="2" VerticalAlignment="Top" Background="{x:Bind ButtonColorBrush}" Click="View_Weekly_Click"/>
+                        <Button Name="Activities"   Content="View recent Activities"    HorizontalAlignment="Center"  Grid.Row="4" VerticalAlignment="Top" Background="{x:Bind ButtonColorBrush}" Click="View_Recent_Activities"/>
+                        <Button Name="Sleep"        Content="View sleep summaries"      HorizontalAlignment="Center"  Grid.Row="6" VerticalAlignment="Top" Background="{x:Bind ButtonColorBrush}" Click="View_Sleep_Summaries"/>
+                        <Button Name="Compare"      Content="Compare progress"          HorizontalAlignment="Center"  Grid.Row="8" VerticalAlignment="Top" Background="{x:Bind ButtonColorBrush}" Click="CompareClick"/>
+
+                        <TextBlock Grid.Row="1"><LineBreak/></TextBlock>
+                        <TextBlock Grid.Row="3"><LineBreak/></TextBlock>
+                        <TextBlock Grid.Row="5"><LineBreak/></TextBlock>
+                        <TextBlock Grid.Row="7"><LineBreak/></TextBlock>
+                        <TextBlock Grid.Row="9"><LineBreak/></TextBlock>
+                </Grid>
+                    <!-- Grid of goals & progress-->
+                <Grid Grid.ColumnSpan="3" HorizontalAlignment="Stretch"  Grid.Row="4" VerticalAlignment="Stretch">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+
+                    </Grid.RowDefinitions>
+                    <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="{x:Bind TextOnBackgroundColorBrush}" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="0">
+                         My games:
+                    </TextBlock>
+                    <Button Content="Tic Tac Toe"   HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Background="GhostWhite" Click="TicTacToeClick"/>
+                    <Button Content="Mine Sweeper"  HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Background="GhostWhite" Click="MineSweeperClick"/>
+                    <TextBlock Grid.Row="2"><LineBreak/></TextBlock>
+                    <TextBlock Grid.Row="4"><LineBreak/></TextBlock>
+                    <TextBlock Grid.Row="6"><LineBreak/></TextBlock>
+                </Grid>
+                <Button Name="ToBeACoach" Content="Become a coach"  HorizontalAlignment="Center" VerticalAlignment="Bottom"  Foreground="{x:Bind ButtonTextColorBrush}" Background="{x:Bind ButtonColorBrush}" Click="beACoach" Grid.Row="5" Grid.Column="1"/>
+                <TextBlock Grid.Row="6">
+                    <LineBreak/>
+                </TextBlock>
+
+
+            </Grid>
+
+            <Button Content="Log Out" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="20" Foreground="Black" Background="{x:Bind LogOutButtonColorBrush}" Click="LogOutClick" Grid.Row="3"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>

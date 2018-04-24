@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="boost.Screens.NewCoachAddNewPlayerWeeklyGoals"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost.Screens"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ScrollViewer HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" >
+        <Grid Background="{x:Bind BackgroundColorBrush}">
+            <Grid.Resources>
+                <Style x:Key="GridRowDefaultStyle" TargetType="RowDefinition">
+                    <Setter Property="Height" Value="1*"/>
+                </Style>
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition  Height="1*"/>
+                <RowDefinition  Height="8*"/>
+                <RowDefinition  Height="1*"/>
+            </Grid.RowDefinitions>
+            <Image Source="boost.png" VerticalAlignment="Top" Height="100" Grid.Row="0"/>
+            <Button x:Name="button" Content="Finish" HorizontalAlignment="Center" VerticalAlignment="bottom" FontSize="50" Foreground="{x:Bind ButtonTextColorBrush}" Background="{x:Bind ButtonColorBrush}"   Grid.Row="3" Click="button_Click"/>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="welcome" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4">
+                    Hi Coachy <LineBreak/>
+                    Please set your player's goals.
+                </TextBlock>
+                <TextBlock  TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="1">
+                    Active Minutes:
+                </TextBlock>
+                <TextBox x:Name="ActiveMinutes_textBox" HorizontalAlignment="Stretch" TextWrapping="Wrap"  VerticalAlignment="Stretch" Grid.Row="1" Grid.Column="1" TextChanged="ActiveMinutes_textBox_TextChanged"  />
+                <TextBlock  TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="2" Grid.Column="0" >
+                    Calories burned:
+                </TextBlock>
+                <TextBox x:Name="Calories_textBox" HorizontalAlignment="Stretch" TextWrapping="Wrap"  VerticalAlignment="Stretch" Grid.Row="2" Grid.Column="1" TextChanged="Calories_textBox_TextChanged" />
+
+                <TextBlock Name="ActiveMinutesReward"    Text="Reward:" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="1" Grid.Column="2" Visibility="Collapsed" />
+                <TextBlock Name="CaloriesReward" Text="Reward:" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="2" Grid.Column="2" Visibility="Collapsed" />
+
+                <TextBox x:Name="ActiveMinutesReward_textBox"    HorizontalAlignment="Stretch" TextWrapping="Wrap"  VerticalAlignment="Stretch" Grid.Row="1" Grid.Column="3" Visibility="Collapsed" TextChanged="OnlyNums"/>
+                <TextBox x:Name="CaloriesReward_textBox" HorizontalAlignment="Stretch" TextWrapping="Wrap"  VerticalAlignment="Stretch" Grid.Row="2" Grid.Column="3" Visibility="Collapsed" TextChanged="OnlyNums"/>
+                <TextBlock Text="Reminder: each 1 ILS is worth 100 crystals!" TextWrapping="WrapWholeWords" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"  Foreground="{x:Bind TextOnBackgroundColorBrush}" Grid.Row="3" Grid.ColumnSpan="4" />
+
+            </Grid>
+
+        </Grid>
+    </ScrollViewer>
+</Page>

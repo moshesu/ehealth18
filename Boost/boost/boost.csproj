@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{8CCF631D-77B6-48B1-AE49-876F34848CB1}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>boost</RootNamespace>
+    <AssemblyName>boost</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.16299.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <PackageCertificateKeyFile>boost_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP;CODE_ANALYSIS</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cloud\AzureDatabase\AbstractAzureRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\ComparisonFetcher.cs" />
+    <Compile Include="Cloud\AzureDatabase\TransactionRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\GoalsRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\AzureApiBadResponseCodeExcpetion.cs" />
+    <Compile Include="Cloud\AzureDatabase\ProgressRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\SleepRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\ActivityRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\CoachRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\PlayerRepository.cs" />
+    <Compile Include="Cloud\AzureDatabase\UserTypeRepository.cs" />
+    <Compile Include="Cloud\HealthCloud\Authentication\HealthTokenGenerator.cs" />
+    <Compile Include="Cloud\HealthCloud\DataFetcher\HealthDataFetcher.cs" />
+    <Compile Include="Cloud\HealthCloud\Exceptions\TokenAcquiringException.cs" />
+    <Compile Include="Cloud\HealthCloud\Exceptions\UnauthorizedRequestExeption.cs" />
+    <Compile Include="Cloud\HealthCloud\Exceptions\UserDeniedAccessExeption.cs" />
+    <Compile Include="Cloud\HealthCloud\Exceptions\UserCancelSignInExeption.cs" />
+    <Compile Include="Cloud\HealthCloud\Exceptions\HealthRequestException.cs" />
+    <Compile Include="Core\App\CoachPlayersPage.cs" />
+    <Compile Include="Core\App\ICompareUser.cs" />
+    <Compile Include="Core\App\ISleepFetcher.cs" />
+    <Compile Include="Core\Entities\BalanceUpdater.cs" />
+    <Compile Include="Core\App\IActivityFetcher.cs" />
+    <Compile Include="Core\Entities\Exceptions\ExistingUserException.cs" />
+    <Compile Include="Core\Entities\Exceptions\NoSuchUserException.cs" />
+    <Compile Include="Core\Entities\Goals.cs" />
+    <Compile Include="Core\Entities\PaymentDetails.cs" />
+    <Compile Include="Core\Entities\Progress\ProgressBuilder.cs" />
+    <Compile Include="Core\Entities\Progress\WeeklyProgressSummary.cs" />
+    <Compile Include="Core\Entities\Users\UserTypeRecord.cs" />
+    <Compile Include="Core\LocalStorage.cs" />
+    <Compile Include="Core\UserActivity\ActivityBuilder.cs" />
+    <Compile Include="Core\UserActivity\ActivityFetcher.cs" />
+    <Compile Include="Core\UserActivity\BalanceHandler.cs" />
+    <Compile Include="Core\UserActivity\GoalsHandler.cs" />
+    <Compile Include="Core\UserActivity\PlayerActivityUpdater.cs" />
+    <Compile Include="Core\UserActivity\PlayerDataUpdater.cs" />
+    <Compile Include="Core\UserActivity\SleepFetcher.cs" />
+    <Compile Include="Core\UserComparison\CompareUser.cs" />
+    <Compile Include="Core\UserComparison\Comparison.cs" />
+    <Compile Include="Core\UserComparison\ComparisonData.cs" />
+    <Compile Include="ProgramContainer.cs" />
+    <Compile Include="Core\UserActivity\ProgressFetcher.cs" />
+    <Compile Include="Core\Entities\Users\UserCreator.cs" />
+    <Compile Include="Core\Entities\Transaction.cs" />
+    <Compile Include="Core\Entities\Progress\DailyProgressSummary.cs" />
+    <Compile Include="Core\Entities\ActivityType.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\CaloriesBurnedSummary.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\HealthDailySummary.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\DistanceSummary.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\HeartRateSummary.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\HealthProfileInformation.cs" />
+    <Compile Include="Cloud\HealthCloud\DataFetcher\RequestsManager.cs" />
+    <Compile Include="Core\Entities\Users\User.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\HealthActivity.cs" />
+    <Compile Include="Cloud\HealthCloud\HealthTypes\HealthSleep.cs" />
+    <Compile Include="Core\Entities\Activity.cs" />
+    <Compile Include="Core\Entities\Users\Coach.cs" />
+    <Compile Include="Core\Entities\Sleep.cs" />
+    <Compile Include="Core\Entities\Users\Player.cs" />
+    <Compile Include="Core\Entities\Users\UserType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PushNotifications\ComparisonNotification.cs" />
+    <Compile Include="PushNotifications\CrystalsNotification.cs" />
+    <Compile Include="PushNotifications\INotificationsFetcher.cs" />
+    <Compile Include="PushNotifications\MorningNotification.cs" />
+    <Compile Include="PushNotifications\NotificationBuilder.cs" />
+    <Compile Include="PushNotifications\NotificationsCenter.cs" />
+    <Compile Include="PushNotifications\NotificationTimes.cs" />
+    <Compile Include="Repositories\IActivityRepository.cs" />
+    <Compile Include="Repositories\ISleepRepository.cs" />
+    <Compile Include="Repositories\ITransactionRepository.cs" />
+    <Compile Include="Repositories\ICoachRepository.cs" />
+    <Compile Include="Repositories\IGoalsRepository.cs" />
+    <Compile Include="Repositories\IPlayerRepository.cs" />
+    <Compile Include="Repositories\IProgressRepository.cs" />
+    <Compile Include="Repositories\IUserTypeRepository.cs" />
+    <Compile Include="Screens\CoachAddNewPlayer.xaml.cs">
+      <DependentUpon>CoachAddNewPlayer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachAddNewPlayerWeeklyGoals.xaml.cs">
+      <DependentUpon>CoachAddNewPlayerWeeklyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachEditPlayerGoals.xaml.cs">
+      <DependentUpon>CoachEditPlayerGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachEditPlayerWeeklyGoals.xaml.cs">
+      <DependentUpon>CoachEditPlayerWeeklyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachExplenationsBeforeAddingNewPlayerGoals.xaml.cs">
+      <DependentUpon>CoachExplenationsBeforeAddingNewPlayerGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachRemovePlayer.xaml.cs">
+      <DependentUpon>CoachRemovePlayer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerComparison.xaml.cs">
+      <DependentUpon>CoachViewPlayerComparison.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerGoals.xaml.cs">
+      <DependentUpon>CoachViewPlayerGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerRecentActivities.xaml.cs">
+      <DependentUpon>CoachViewPlayerRecentActivities.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerSleep.xaml.cs">
+      <DependentUpon>CoachViewPlayerSleep.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerStart.xaml.cs">
+      <DependentUpon>CoachViewPlayerStart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\CoachViewPlayerWeeklyGoals.xaml.cs">
+      <DependentUpon>CoachViewPlayerWeeklyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Coach_Change_Credit_Card.xaml.cs">
+      <DependentUpon>Coach_Change_Credit_Card.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Coach_Lobby.xaml.cs">
+      <DependentUpon>Coach_Lobby.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Coach_Or_Player.xaml.cs">
+      <DependentUpon>Coach_Or_Player.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Coach_View_Players.xaml.cs">
+      <DependentUpon>Coach_View_Players.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GameMineSweeperEasy.xaml.cs">
+      <DependentUpon>GameMineSweeperEasy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GameMineSweeperHard.xaml.cs">
+      <DependentUpon>GameMineSweeperHard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GameMineSweeperMedium.xaml.cs">
+      <DependentUpon>GameMineSweeperMedium.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GameMineSweeperStart.xaml.cs">
+      <DependentUpon>GameMineSweeperStart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GameTicTacToe.xaml.cs">
+      <DependentUpon>GameTicTacToe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Game_Hub.xaml.cs">
+      <DependentUpon>Game_Hub.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\GridHelpers.cs" />
+    <Compile Include="Screens\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\NewCoachAddNewPlayerWeeklyGoals.xaml.cs">
+      <DependentUpon>NewCoachAddNewPlayerWeeklyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\NewCoachExplenationsBeforeAddingNewPlayerGoals.xaml.cs">
+      <DependentUpon>NewCoachExplenationsBeforeAddingNewPlayerGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\NewUnassignedPlayer.xaml.cs" />
+    <Compile Include="Screens\NewUnassignedPlayerExplenations.xaml.cs" />
+    <Compile Include="Screens\NewUnassignedPlayerSeeGoals.xaml.cs" />
+    <Compile Include="Screens\NewUserExplenations.xaml.cs">
+      <DependentUpon>NewUserExplenations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Coach.xaml.cs">
+      <DependentUpon>New_Coach.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Coach_Add_New_Player.xaml.cs">
+      <DependentUpon>New_Coach_Add_New_Player.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Coach_Add_New_Player_Goals.xaml.cs">
+      <DependentUpon>New_Coach_Add_New_Player_Goals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Coach_CreditCard.xaml.cs">
+      <DependentUpon>New_Coach_CreditCard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Coach_Explenations.xaml.cs">
+      <DependentUpon>New_Coach_Explenations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_Player.xaml.cs">
+      <DependentUpon>New_Player.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\New_User.xaml.cs">
+      <DependentUpon>New_User.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Core\App\IBalanceHandler.cs" />
+    <Compile Include="Core\App\IGoalsHandler.cs" />
+    <Compile Include="Core\App\IProgressFetcher.cs" />
+    <Compile Include="Core\App\SignInFlow.cs" />
+    <Compile Include="Screens\PlayerCompareProgress.xaml.cs">
+      <DependentUpon>PlayerCompareProgress.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\PlayerViewDailyGoals.xaml.cs">
+      <DependentUpon>PlayerViewDailyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\PlayerViewRecentActivities.xaml.cs">
+      <DependentUpon>PlayerViewRecentActivities.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\PlayerViewSleep.xaml.cs">
+      <DependentUpon>PlayerViewSleep.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\PlayerViewWeeklyGoals.xaml.cs">
+      <DependentUpon>PlayerViewWeeklyGoals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Util\DateTimeExtensions.cs" />
+    <Compile Include="Util\EnumerableExtensions.cs" />
+    <Compile Include="Util\LinqExtensions.cs" />
+    <Compile Include="Util\TimeUtil.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="boost_TemporaryKey.pfx" />
+    <None Include="obj\ARM\Debug\boost.csproj.CopyComplete" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-48.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Assets\Square44x44Logo.scale-125.png" />
+    <Content Include="Assets\Square44x44Logo.scale-150.png" />
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="PushNotifications\logo.png" />
+    <Content Include="PushNotifications\logoBlue.png" />
+    <Content Include="PushNotifications\sports.png" />
+    <Content Include="Screens\boost.png" />
+    <Content Include="Screens\vi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Screens\CoachAddNewPlayer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachAddNewPlayerWeeklyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachEditPlayerGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachEditPlayerWeeklyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachExplenationsBeforeAddingNewPlayerGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachRemovePlayer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerComparison.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerRecentActivities.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerSleep.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerStart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\CoachViewPlayerWeeklyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\Coach_Change_Credit_Card.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\Coach_Lobby.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\Coach_Or_Player.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\Coach_View_Players.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\GameMineSweeperEasy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\GameMineSweeperHard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\GameMineSweeperMedium.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\GameMineSweeperStart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\GameTicTacToe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\Game_Hub.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\NewCoachAddNewPlayerWeeklyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\NewCoachExplenationsBeforeAddingNewPlayerGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\NewUnassignedPlayer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\NewUnassignedPlayerExplenations.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\NewUnassignedPlayerSeeGoals.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\NewUserExplenations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\New_Coach.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_Coach_Add_New_Player.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_Coach_Add_New_Player_Goals.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_Coach_CreditCard.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_Coach_Explenations.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_Player.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screens\New_User.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\PlayerCompareProgress.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\PlayerViewDailyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\PlayerViewRecentActivities.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\PlayerViewSleep.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Screens\PlayerViewWeeklyGoals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>5.4.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications">
+      <Version>2.2.0</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>10.0.3</Version>
+    </PackageReference>
+    <PackageReference Include="QueryString.NET">
+      <Version>1.0.0</Version>
+    </PackageReference>
+    <PackageReference Include="SimpleInjector">
+      <Version>4.0.12</Version>
+    </PackageReference>
+    <PackageReference Include="System.ValueTuple">
+      <Version>4.4.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

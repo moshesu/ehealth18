@@ -1,0 +1,95 @@
+﻿<Page
+    x:Class="boost.Game_Hub"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <ScrollViewer HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" >
+
+        <Grid Background="Blue">
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch"   >
+                <TextBlock VerticalAlignment="Top" FontSize="72" TextAlignment="Center" Foreground="White" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="0">
+                boost
+                </TextBlock>
+                <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="Center" Foreground="White" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="1">
+                </TextBlock>
+                <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="1" Grid.RowSpan="3"  Grid.ColumnSpan="3" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="Center" Foreground="White" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="0">
+                Hey Ofri! Welcome to the GameHub
+                    </TextBlock>
+                    <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="Center" Foreground="White" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="1">
+                You have 177 Crystals!
+                    </TextBlock>
+                    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="2"   Grid.ColumnSpan="3" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+
+
+                        <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="White" TextWrapping="Wrap" FontWeight="Bold" FontStyle="Italic" Grid.Row="0" SelectionChanged="TextBlock_SelectionChanged_progress">
+                        View Daily progress
+                        </TextBlock>
+                        <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="White" TextWrapping="Wrap" FontWeight="Bold" FontStyle="Italic" Grid.Row="1" SelectionChanged="TextBlock_SelectionChanged_progress">
+                        View Weekly progress
+                        </TextBlock>
+                        <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="White" TextWrapping="Wrap" FontWeight="Bold" FontStyle="Italic" Grid.Row="2" SelectionChanged="TextBlock_SelectionChanged_progress">
+                        View Monthly progress
+                        </TextBlock>
+                        <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="White" TextWrapping="Wrap" FontWeight="Bold" FontStyle="Italic" Grid.Row="3">
+                        View Daily goals
+                        </TextBlock>
+
+
+
+
+
+
+
+
+                    </Grid>
+                    <!-- Grid of goals & progress-->
+                    <TextBlock VerticalAlignment="Top" FontSize="20" TextAlignment="left" Foreground="White" TextWrapping="Wrap" Grid.ColumnSpan="3" Grid.Row="3">
+                My games:
+                    </TextBlock>
+                </Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+
+
+
+
+
+
+
+
+            </Grid>
+
+        </Grid>
+    </ScrollViewer>
+</Page>

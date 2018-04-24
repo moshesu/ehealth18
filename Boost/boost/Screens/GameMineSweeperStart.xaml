@@ -1,0 +1,79 @@
+﻿<Page
+    x:Class="boost.Screens.GameMineSweeperStart"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:boost.Screens"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Name="outer" Background="{x:Bind BackgroundColorBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="MINESWEEPER" 
+                   Grid.ColumnSpan="3"
+                   FontWeight="Medium"
+                   Foreground="{x:Bind TextOnBackgroundColorBrush}"
+                   FontSize="40" 
+                   HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Text="Kitty Boom" 
+                   Grid.ColumnSpan="3"
+                   FontWeight="SemiLight"
+                   Foreground="{x:Bind TextOnBackgroundColorBrush}"
+                   Grid.Row="1"
+                   FontSize="36" 
+                   HorizontalAlignment="Center"></TextBlock>
+        <Button Content="Easy - 9 x 9" 
+                Name="EasyButton" 
+                Grid.Row="3"
+                Grid.Column="1"
+                Foreground="{x:Bind ButtonTextColorBrush}"
+                FontWeight="ExtraLight"
+                BorderBrush="Black"
+                FontSize="30"
+                Click="EasyButton_Click" 
+                HorizontalAlignment="Center"
+                Background="{x:Bind ButtonColorBrush}"/>
+        <Button Content="Medium - 16 x 16" 
+                Name="MediumButton" 
+                Grid.Column="1"
+                Foreground="{x:Bind ButtonTextColorBrush}"
+                FontWeight="ExtraLight"
+                BorderBrush="Black"
+                FontSize="30"
+                Grid.Row="4"
+                HorizontalAlignment="Center"
+                Background="{x:Bind ButtonColorBrush}"
+                Click="MediumButton_Click"/>
+        <Button Content="Hard - 30 x 30" 
+                Grid.Row="5"
+                Grid.Column="1"
+                Foreground="{x:Bind ButtonTextColorBrush}"
+                FontWeight="ExtraLight"
+                BorderBrush="Black"
+                FontSize="30"
+                Name="HardButton" 
+                Click="HardButton_Click" 
+                HorizontalAlignment="Center"
+                Background="{x:Bind ButtonColorBrush}"/>
+        <Button Content="Back to Game Hub" 
+                Grid.Row="6"
+                Grid.Column="1"
+                Foreground="{x:Bind ButtonTextColorBrush}"
+                FontWeight="ExtraLight"
+                BorderBrush="Black"
+                FontSize="30"
+                Name="Back" 
+                Click="Back_Click" 
+                HorizontalAlignment="Center"
+                Background="{x:Bind ButtonColorBrush}"/>
+    </Grid>
+</Page>
