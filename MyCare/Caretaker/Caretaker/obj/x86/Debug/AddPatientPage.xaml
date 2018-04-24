@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Caretaker.AddPatientPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Caretaker"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock x:ConnectionId='1' x:Name="pageTitle" Text="Add Patient" Grid.Column="1" Grid.Row="1" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock x:ConnectionId='2' x:Name="info" Grid.Column="1" Text="please enter patient's email:" Grid.Row="2" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox x:ConnectionId='3' Grid.Row="3" Grid.Column="1" Name="textBoxEmail" VerticalAlignment="Center"/>
+        <TextBlock x:ConnectionId='4' x:Name ="errormessage" Grid.Column="1" Grid.Row="4" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:ConnectionId='5' Grid.Row="5" Grid.Column="1"                      HorizontalAlignment="Left" VerticalAlignment="Center">Add Patient</Button>
+        <Button x:ConnectionId='6' Grid.Row="5" Grid.Column="1"                    HorizontalAlignment="Right" VerticalAlignment="Center">Back</Button>
+    </Grid>
+</Page>
+

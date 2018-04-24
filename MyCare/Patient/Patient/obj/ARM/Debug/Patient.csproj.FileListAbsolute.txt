@@ -1,0 +1,1320 @@
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\App.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\FallPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\LoginPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\MainPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\MonitorPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\ProfilePage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\RegisterPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Patient.xr.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Patient.exe
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Patient.pdb
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\resources.pri
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\AppxManifest.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Core\Patient.exe
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Patient.build.appxrecipe
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Google.Protobuf.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Phone_UAP.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Store_UAP.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.Band.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Core.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Numerics.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Windows.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Collections.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Globalization.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\clrcompression.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.AppContext.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Buffers.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Linq.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\App.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\App.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FallPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FallPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MainPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MonitorPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MonitorPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ProfilePage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ProfilePage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\RegisterPage.g.i.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\RegisterPage.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\App.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FallPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\LoginPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MainPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MonitorPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ProfilePage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\RegisterPage.xaml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\App.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FallPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\LoginPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MainPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MonitorPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ProfilePage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\RegisterPage.xbf
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Patient.exe
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Patient.pdb
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\priconfig.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\layout.resfiles
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\resources.resfiles
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\pri.resfiles
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\qualifiers.txt
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Phone_UAP.pri.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Store_UAP.pri.xml
+C:\Users\רותי\source\repos\v6\Patient\Patient\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\App.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\FallPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\LoginPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\MainPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Patient.xr.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Patient.exe
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Patient.pdb
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\resources.pri
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\AppxManifest.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Core\Patient.exe
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Patient.build.appxrecipe
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Google.Protobuf.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Phone_UAP.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Store_UAP.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.Band.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Core.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Numerics.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Windows.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Collections.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Globalization.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Console.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\clrcompression.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\SendGrid.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\SendGrid.pdb
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.AppContext.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Buffers.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Linq.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Text.Encodings.Web.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\bin\ARM\Debug\Twilio.dll
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\App.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\App.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FallPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FallPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MainPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MonitorPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MonitorPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ProfilePage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ProfilePage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\RegisterPage.g.i.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\RegisterPage.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\App.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FallPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\LoginPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MainPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MonitorPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ProfilePage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\RegisterPage.xaml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\App.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FallPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\LoginPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MainPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Patient.exe
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Patient.pdb
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Console.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Patient.csproj.GenerateResource.Cache
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\priconfig.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\layout.resfiles
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\resources.resfiles
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\pri.resfiles
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\qualifiers.txt
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Phone_UAP.pri.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Store_UAP.pri.xml
+C:\Users\olga\source\repos\v8\Patient\Patient\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\App.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\FallPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\LoginPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\MainPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\MonitorPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\ProfilePage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\RegisterPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Patient.xr.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Patient.exe
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Patient.pdb
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\resources.pri
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\AppxManifest.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Core\Patient.exe
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Patient.build.appxrecipe
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Google.Protobuf.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Phone_UAP.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Store_UAP.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.Band.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Core.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Numerics.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Windows.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Collections.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Globalization.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Console.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\clrcompression.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\SendGrid.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\SendGrid.pdb
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.AppContext.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Buffers.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Linq.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Text.Encodings.Web.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\bin\ARM\Debug\Twilio.dll
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\App.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\App.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FallPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FallPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MainPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MonitorPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MonitorPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ProfilePage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ProfilePage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\RegisterPage.g.i.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\RegisterPage.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\App.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FallPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\LoginPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MainPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MonitorPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ProfilePage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\RegisterPage.xaml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\App.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FallPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\LoginPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MainPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MonitorPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ProfilePage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\RegisterPage.xbf
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Patient.exe
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Patient.pdb
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Console.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Patient.csproj.GenerateResource.Cache
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\priconfig.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\layout.resfiles
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\resources.resfiles
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\pri.resfiles
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\qualifiers.txt
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Phone_UAP.pri.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Store_UAP.pri.xml
+C:\Users\רותי\source\repos\v9\Patient\Patient\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\App.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\FallPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\LoginPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\MainPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Patient.xr.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Patient.exe
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Patient.pdb
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\resources.pri
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\AppxManifest.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Core\Patient.exe
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Patient.build.appxrecipe
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Google.Protobuf.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Phone_UAP.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Store_UAP.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.Band.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Core.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Numerics.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Windows.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Collections.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Globalization.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Console.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\clrcompression.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\SendGrid.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\SendGrid.pdb
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.AppContext.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Buffers.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Linq.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Text.Encodings.Web.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\bin\ARM\Debug\Twilio.dll
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\App.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\App.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FallPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FallPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MainPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MonitorPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MonitorPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ProfilePage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ProfilePage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\RegisterPage.g.i.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\RegisterPage.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\App.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FallPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\LoginPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MainPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MonitorPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ProfilePage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\RegisterPage.xaml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\App.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FallPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\LoginPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MainPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Patient.exe
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Patient.pdb
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Console.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Patient.csproj.GenerateResource.Cache
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\priconfig.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\layout.resfiles
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\resources.resfiles
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\pri.resfiles
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\qualifiers.txt
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Phone_UAP.pri.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Store_UAP.pri.xml
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\olga\Desktop\New folder\Patient\Patient\obj\ARM\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\App.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\FallPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\LoginPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\MainPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Patient.xr.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Patient.exe
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Patient.pdb
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\resources.pri
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\AppxManifest.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Core\Patient.exe
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Patient.build.appxrecipe
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Google.Protobuf.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Phone_UAP.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.Band.Store_UAP.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.Band.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Core.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Numerics.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Windows.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Collections.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Globalization.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Console.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\clrcompression.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\SendGrid.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\SendGrid.pdb
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.AppContext.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Buffers.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Linq.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.NameResolution.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Net.WebSockets.Client.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Text.Encodings.Web.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\bin\ARM\Debug\Twilio.dll
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Patient.csprojResolveAssemblyReference.cache
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\App.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\App.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FallPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FallPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MainPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MonitorPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MonitorPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ProfilePage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ProfilePage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\RegisterPage.g.i.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\RegisterPage.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\App.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FallPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\LoginPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MainPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MonitorPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ProfilePage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\RegisterPage.xaml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\App.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\AddCaretakerPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FallPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\LoginPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MainPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MonitorPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ProfilePage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\RegisterPage.xbf
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Patient.exe
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Patient.pdb
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Console.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Microsoft.AspNetCore.Http.Abstractions\en-us\Microsoft.AspNetCore.Http.Abstractions.Resources.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Microsoft.Extensions.Primitives\en-us\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Patient.csproj.GenerateResource.Cache
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\priconfig.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\layout.resfiles
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\resources.resfiles
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\pri.resfiles
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\qualifiers.txt
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Phone_UAP.pri.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\Microsoft.Band.Store_UAP.pri.xml
+C:\Users\olga\Desktop\modified\Patient\Patient\obj\ARM\Debug\ProjectArchitectures.txt

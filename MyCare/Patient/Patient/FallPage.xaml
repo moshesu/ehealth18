@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Patient.FallPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Patient"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="pageTitle" Text="Did you fall?" Grid.Row="0" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
+        <TextBlock Name="TimerDisplay" Grid.Row="1" HorizontalAlignment="Center"/>
+        <TextBlock  Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Bottom" x:Name ="errormessage" HorizontalAlignment="Center" Foreground="#FF8B0B04" FontSize="18" FontWeight="Bold"/>
+        <Button Grid.Row="3" Style="{StaticResource RoundButton}" Background="MediumSeaGreen" Name="YesButton" Click="Yes_Click" HorizontalAlignment="Stretch" Content="Yes" VerticalAlignment="Stretch" FontSize="36" FontWeight="Bold"/>
+        <Button Grid.Row="4" Style="{StaticResource RoundButton}" Background="IndianRed" Click="No_Click" HorizontalAlignment="Stretch" Content="No" VerticalAlignment="Stretch" FontSize="36" FontWeight="Bold"/>
+    </Grid>
+</Page>
