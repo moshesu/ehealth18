@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\0\jl\microsoft-band-1.3.20307.2.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\26\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\27\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\28\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\29\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\30\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\31\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\32\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\2\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\8\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\16\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\17\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\18\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\19\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\20\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\32\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\2\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\8\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\12\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\13\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\15\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\16\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\17\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\18\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\19\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\20\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\32\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\8.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\16.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\17.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\18.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\19.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\20.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Admin\source\repos\eHealth\App3\obj\Debug\lp\32.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

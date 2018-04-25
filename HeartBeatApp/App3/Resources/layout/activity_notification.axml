@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="#ffffff"
+    android:theme="@android:style/Theme.Black.NoTitleBar">
+    <TextView
+        android:text="This is an example text"
+        android:textColor="#000000"
+        android:layout_marginTop="50dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/textView" />
+    <ImageView
+        android:id="@+id/piegauge"
+        android:src="@drawable/piegauge"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView" />
+    <TextView
+        android:id="@+id/myImageViewText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/piegauge"
+        android:layout_alignTop="@+id/piegauge"
+        android:layout_alignRight="@+id/piegauge"
+        android:layout_alignBottom="@+id/piegauge"
+        android:layout_margin="1dp"
+        android:textSize="60sp"
+        android:gravity="center"
+        android:text="84"
+        android:textColor="#fd4a4c" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/piegauge">
+        <Button
+            android:layout_width="205dp"
+            android:layout_height="40dp"
+            android:text="Dismiss"
+            android:background="#98FB98"
+            android:id="@+id/dismiss" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentStart="true"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:layout_below="@+id/piegauge">
+            <Button
+                android:text="Emergency Cal"
+                android:layout_width="205dp"
+                android:layout_height="40dp"
+                android:background="#fd4a4c"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/emergency" />
+            <Button
+                android:layout_width="205dp"
+                android:layout_height="40dp"
+                android:text="Ignore"
+                android:background="#FF7F50"
+                android:id="@+id/ignore" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
